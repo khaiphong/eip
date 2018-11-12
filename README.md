@@ -6,4 +6,6 @@ It is your "<b>PersonaAI CustomFeed</b>" when you upgrade the Free todo list to 
 
 Plan cart contains items of todos, executes, feedbacks pending to enter the queue pipelines. The cart checkout releases the items to the system for (1) collecting background information to be reviewed before releasing to the system, (2) notifying participants' Personal Assistant to be alert for the persona's recommended actions in handling the executes, and (3) applying Key-Performance-Indicator including Balanced Scorecard to collect feedback which are parts of the executions and recommendations of your project-plan-execution process.
 
+When the legal entity is [ project / organization / division / group ], <b>EIP</b> is its team works whose wisdom and strategic decisions are measurable and accumulated for deeper mining and learning while the team members can come and go. The team culture and its intangible assets are continuously changing to meet the challenging environments of its fields.
+
 
