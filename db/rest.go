@@ -14,6 +14,13 @@ limitations under the License.
 
 Topic REST server using PersonaDB
 https://engineering.linkedin.com/blog/2016/03/followfeed--linkedin-s-feed-made-faster-and-smarter
+
+https://dgraph.io/blog/post/building-todo-list-react-dgraph/
+Dgraph is a distributed graph database on top of Badger that PersonaDB is
+based on => at OmHub/DockerHub, the ReactApp EIP connect to Dgraph from JS
+and fetching data of Free todo, storing data in Dgraph to PersonaDB
+
+Besides distributed graph db as its functional operations, EIP embrace Node-Solid-Server as its interface to share its POD (personal Online Data)
 */
 
 package main
